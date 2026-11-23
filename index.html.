@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>سمر ❤️</title>
+<style>
+*{box-sizing:border-box}
+body{
+margin:0;padding:20px;
+background:linear-gradient(145deg,#170b17,#48172f,#170b17);
+color:white;font-family:Tahoma;text-align:center
+}
+main{max-width:600px;margin:auto}
+h1{font-size:48px;color:#ff9bbb}
+.card{
+background:#291827;padding:25px;
+border-radius:25px;
+border:1px solid #ff8db4;
+box-shadow:0 0 30px #a52c65;
+}
+img{width:85%;max-width:300px;border-radius:20px;border:3px solid pink}
+p{font-size:19px;line-height:2;color:#ffe4ed}
+button{
+background:#ff548d;color:white;border:0;
+padding:14px 25px;border-radius:20px;font-size:17px
+}
+#message{display:none}
+</style>
+</head>
+<body>
+<main>
+<div class="card">
+<h1>سمر ❤️</h1>
+<h3>إلى أجمل إنسانة في حياتي</h3>
+
+<img id="photo" src="" alt="صورتنا">
+
+<p>
+يا سمر يا أجمل صدفة دخلت حياتي ❤️
+إنتي مش مجرد حبيبة إنتي حكاية جميلة نفسي أفضل أعيشها كل يوم.
+<br><br>
+بحب ضحكتك وبحب عيونك وبحب تفاصيلك الصغيرة قبل الكبيرة.
+بحب كلامك واهتمامك وكل حاجة بتخصك.
+<br><br>
+نفسي أكون دايماً سبب في ضحكتك وراحتك
+وأكون الشخص اللي تلاقيه جنبك وقت ما تحتاجيه.
+<br><br>
+إنتي ليكي مكان في قلبي محدش يقدر ياخده
+وكل يوم بيعدي بحس إنك أغلى عندي من اليوم اللي قبله.
+<br><br>
+نفسي أشوفك سعيدة وأفضل أقولك بحبك
+من غير ما الكلمة دي تخلص أو تقل قيمتها.
+<br><br>
+يا سمر إنتي حبيبتي وأجمل حاجة في أيامي
+وربنا يديمك نعمة في حياتي ❤️
+</p>
+
+<h2 style="color:#ff9bbb">بحبك يا سمر ❤️</h2>
+<h3>من عامر إلى سمر</h3>
+</div>
+</main>
+</body>
+</html>
